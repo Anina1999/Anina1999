@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Anina – Full-Stack Developer" width="100%" />
+</p>
+
 # Hi, I'm Anina 👋
 
 ### Full-Stack Developer | Quality Engineering | UX & Product Thinking
