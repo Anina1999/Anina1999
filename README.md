@@ -2,9 +2,9 @@
   <img src="./banner.png" alt="Anina – Full-Stack Developer" width="100%" />
 </p>
 
-# Hi, I'm Anina 👋
-
-### Full-Stack Developer | Quality Engineering | UX & Product Thinking
+<p align="center">
+  <img src="./roles.svg" alt="Full-Stack Developer · Quality Engineering · UX & Product Thinking" width="100%" />
+</p>
 
 I build modern web and mobile applications, combining software engineering, test automation, and user-centered design to create reliable, intuitive, and scalable software solutions.
 
@@ -14,17 +14,23 @@ I build modern web and mobile applications, combining software engineering, test
 - Building frontend and backend applications.
 - Developing web and mobile experiences.
 - Designing REST APIs and working with databases.
+  
+---
 
-- **🧪 Quality Engineering & Data Quality Assurance**
+**🧪 Quality Engineering & Data Quality Assurance**
 - Building end-to-end test automation frameworks.
 - API testing and validation.
 - Test architecture, maintainability, and software quality.
 - Data transformation validation and regression testing.
 
+---
+
 **🎨 UX & Product Thinking**
 - UX research and design thinking.
 - UI/UX and design systems.
 - User-centered development and performance optimization.
+
+---
 
 **🤖 AI-Assisted Development & Agent Engineering**
 - AI-powered software development with Claude Code.
@@ -77,6 +83,8 @@ I build modern web and mobile applications, combining software engineering, test
   <img src="https://cdn.simpleicons.org/framer/0055FF" height="48" alt="Framer" />
 </p>
 
+---
+
 ### 🗺️ GIS & Geospatial Application Development
 - Interactive Map Development.
 - Custom Map Layers & Layer Management.
@@ -87,6 +95,8 @@ I build modern web and mobile applications, combining software engineering, test
 - ArcGIS Maps SDK for JavaScript.
 - ArcGIS REST APIs.
 - Calcite Design System.
+
+---
 
 ### 🤖 AI Tools & Technologies
 - Claude Code
